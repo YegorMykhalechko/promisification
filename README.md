@@ -1,4 +1,3 @@
-GHP: https://yegormykhalechko.github.io/color-switch/ 
 
 Для быстрого старта необходимо склонировать репозиторий.
 
